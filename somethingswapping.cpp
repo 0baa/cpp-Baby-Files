@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     // Name Declaration.
-    cout << "Hello! I am Sanjay from 8C.\n" << endl;
+    cout << "Hello! I am 0baa\n" << endl;
 
     // prompt
     int a,b,temp;
